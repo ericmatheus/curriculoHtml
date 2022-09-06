@@ -13,7 +13,7 @@ Este projeto consiste basicamente na réplica de um modelo próprio de currícul
 
 # Tecnologias utilizadas 
 ## Front end
-- HTML / CSS / JS / TypeScript
+- HTML / CSS
 ## Implantação em produção
 - Front end web: Netlify
 
