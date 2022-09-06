@@ -8,7 +8,7 @@
 Este projeto consiste basicamente na réplica de um modelo próprio de currículo já existente, usando as tencologias HTML e CSS. 
 
 
-## Layout web ###🚧  EM CONSTRUÇÃO  🚧
+## Layout web >>> 🚧  EM CONSTRUÇÃO  🚧
 
 
 # Tecnologias utilizadas 
@@ -17,7 +17,7 @@ Este projeto consiste basicamente na réplica de um modelo próprio de currícul
 ## Implantação em produção
 - Front end web: Netlify
 
-# Como executar o projeto ### 🚧  EM CONSTRUÇÃO  🚧
+# Como executar o projeto >>> 🚧  EM CONSTRUÇÃO  🚧
 ## Front end web
 
 
