@@ -1,0 +1,118 @@
+body{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    margin-bottom: 100px;
+    /*border: 1px solid black;*/
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: white;
+    
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
+}
+
+#headerText{
+    margin-top: 80px; 
+    font-family: 'Bebas Neue', cursive;
+    font-size: 18pt;
+}
+
+h1{
+    text-transform:uppercase ;
+}
+
+#headerText h1{
+    
+    margin-right: 10%;
+    
+}
+
+#headerText h2{
+    background-color: #6ED4D6;
+    height: auto; 
+    padding: 30px 0px 30px 15px;
+    margin-right: 20%;        
+}
+
+#headerImagem img{
+    margin-top: 50px;
+    max-width: 450px;
+    max-height: 320px;
+    border-radius: 30px;
+}
+
+#headerImagem{
+    vertical-align: middle;
+}
+
+img{
+    width: 90%;
+    
+}
+
+hhh{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.container{
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#dadosPessoais, #DadosContato{
+    font-family: 'Quicksand', sans-serif;
+}
+
+#DadosContato a{
+text-decoration: none;
+color: black;
+
+}
+
+p.link{
+     transition: transform 90ms ease-in-out;
+}
+
+p.link:hover{
+    transform: scale(1.15);
+}
+
+div#corpo{
+    font-family: 'Quicksand', sans-serif;
+    padding-bottom: 80px;
+    border-top-color: blueviolet 3px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-color: #6ED4D6;
+    border-width: 3px 0px 3px 0px;
+    border-style: solid;
+}
+
+div#primeiraColuna{
+    
+    height: auto; 
+    padding: 0px 0px 30px 0px;
+    margin-right: 20%;
+
+}
+
+div#segundaColuna{
+    
+    height: auto; 
+    padding: 0px 0px 30px 0px;
+    margin-right: 20%;
+}
+
+div#corpo h1{
+    border-color: #6ED4D6;
+    border-width: 0px 0px 2px 0px;
+    border-style: solid;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
