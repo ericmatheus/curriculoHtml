@@ -1,63 +1,57 @@
-body{
-    padding-left: 50px;
-    padding-right: 50px;
-    padding-top: 30px;
-    padding-bottom: 50px;
-    margin-bottom: 100px;
-    /*border: 1px solid black;*/
-    margin-left: 25%;
-    margin-right: 25%;
+body {
+    padding: 30px 50px ;
+    margin: auto;
+    max-width: 800px;
+    min-width: 800px;
     background-color: white;
-    
-    box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
-#headerText{
-    margin-top: 80px; 
+#headerText {
+    margin-top: 80px;
     font-family: 'Bebas Neue', cursive;
     font-size: 18pt;
 }
 
-h1{
-    text-transform:uppercase ;
+h1 {
+    text-transform: uppercase;
 }
 
-#headerText h1{
-    
+#headerText h1 {
     margin-right: 10%;
-    
 }
 
-#headerText h2{
+#headerText h2 {
     background-color: #6ED4D6;
-    height: auto; 
+    height: auto;
     padding: 30px 0px 30px 15px;
-    margin-right: 20%;        
+    margin-right: 20%;
 }
 
-#headerImagem img{
+#headerImagem img {
     margin-top: 50px;
     max-width: 450px;
     max-height: 320px;
     border-radius: 30px;
 }
 
-#headerImagem{
+#headerImagem {
     vertical-align: middle;
 }
 
-img{
+img {
     width: 90%;
-    
 }
 
-hhh{
+hhh {
     font-family: 'Bebas Neue', cursive;
     font-family: 'Prompt', sans-serif;
     font-family: 'Quicksand', sans-serif;
 }
 
-.container{
+.container {
     display: grid;
     grid-auto-flow: column;
     grid-auto-columns: 1fr;
@@ -65,25 +59,24 @@ hhh{
     margin-right: 50px;
 }
 
-#dadosPessoais, #DadosContato{
+#dadosPessoais, #DadosContato {
     font-family: 'Quicksand', sans-serif;
 }
 
-#DadosContato a{
-text-decoration: none;
-color: black;
-
+#DadosContato a {
+    text-decoration: none;
+    color: black;
 }
 
-p.link{
-     transition: transform 90ms ease-in-out;
+p.link {
+    transition: transform 90ms ease-in-out;
 }
 
-p.link:hover{
+p.link:hover {
     transform: scale(1.15);
 }
 
-div#corpo{
+div#corpo {
     font-family: 'Quicksand', sans-serif;
     padding-bottom: 80px;
     border-top-color: blueviolet 3px;
@@ -94,22 +87,19 @@ div#corpo{
     border-style: solid;
 }
 
-div#primeiraColuna{
-    
-    height: auto; 
-    padding: 0px 0px 30px 0px;
-    margin-right: 20%;
-
-}
-
-div#segundaColuna{
-    
-    height: auto; 
+div#primeiraColuna {
+    height: auto;
     padding: 0px 0px 30px 0px;
     margin-right: 20%;
 }
 
-div#corpo h1{
+div#segundaColuna {
+    height: auto;
+    padding: 0px 0px 30px 0px;
+    margin-right: 20%;
+}
+
+div#corpo h1 {
     border-color: #6ED4D6;
     border-width: 0px 0px 2px 0px;
     border-style: solid;
